@@ -4,7 +4,7 @@
 
 int M,N,i,j;
 int **p;
-int srow; //initialising value in order to count sum of each row
+int srow = 0; //initialising value in order to count sum of each row
 
 
 int main()
